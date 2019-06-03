@@ -21,11 +21,11 @@ spring:
     port: 6379
     password: 
     timeout: 10000
-  rabbitmq:
-    host: 127.0.0.1
-    port: 5672
-    username: yukong
-    password: x19961010
+#   rabbitmq:
+#     host: 127.0.0.1
+#     port: 5672
+#     username: yukong
+#     password: x19961010
   http:
     multipart:
       max-file-size: 1000MB
